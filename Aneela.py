@@ -48,17 +48,16 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m                   
-\033[1;96m         
-\033[1;96m       
-\033[1;96m        ANEELA
-\033[1;96m      
-\033[1;96m        
-
-\033[1;96m                                
-\033             
-\033[1;91m       ♦♦♦———————————————————————————————♦♦♦
+\033[1;91m♦♦♦———————————————————————————————♦♦♦
+\033[1;96MANEELA              
+\033[1;96MANEELA       
+\033[1;96mANEELA    
+\033[1;96mANEELA
+\033[1;96mANEELA   
+\033[1;96mANEELA     
+\033[1;96mANEELA                               
+\033[1;96mANEELA           
+\033[1;91m♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -78,25 +77,21 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ANEELA X MALIK 
-\033[1;92m       
-\033[1;97m         
-\033[1;92m      
-\033[1;97m      
-\033[1;97m      
-                                                               
-
-"""
-
+\033[1;97mANEELA
+\033[1;92mANEELA       
+\033[1;97mANEELA         
+\033[1;92mANEELA      
+\033[1;97mANEELA      
+\033[1;97mANEELA                                                           
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•   ANEELA X MALIK
-jalan("\033[1;96m•◈•  
-jalan("\033[1;97m•◈• 
-jalan("\033[1;96m•◈•  
-jalan("\033[1;96m•◈•  
-jalan("\033[1;96m•◈• 
+jalan("\033[1;96m•◈•ANEELA
+jalan("\033[1;96m•◈•ANEELA
+jalan("\033[1;97m•◈•ANEELA
+jalan("\033[1;96m•◈•ANEELA 
+jalan("\033[1;96m•◈•ANEELA
+jalan("\033[1;96m•◈•ANEELA
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
