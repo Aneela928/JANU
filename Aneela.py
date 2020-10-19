@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ANEELA X MALIK 
+\033[1;97mANEELA
 \033[1;92m       
 \033[1;97m         
 \033[1;92m      
@@ -91,7 +91,7 @@ print  """
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•   ANEELA X MALIK
+jalan("\033[1;96m•◈•ANEELA
 jalan("\033[1;96m•◈•  
 jalan("\033[1;97m•◈• 
 jalan("\033[1;96m•◈•  
